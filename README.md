@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Felipe Vandevelde, I'm a university at _Faculdade COTEMIG_ and work in _TCENTER_ with data automations using _Power Automate_ and _n8n_.
+
 <!--
 **FelipeVandevelde/FelipeVandevelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
